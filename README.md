@@ -1,2 +1,2 @@
-# multimedia-system
-My Course In College About Multimedia System
+# Multimedia System
+Course In My College

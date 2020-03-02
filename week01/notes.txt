@@ -1,0 +1,21 @@
+Multimedia consist of:
+- Text
+- Animation
+- Audio
+- Video
+- Image
+
+
+1st assigment:
+Find advertisement from education, automotive, and healthcare.
+
+
+Today multimedia system use VR (Virtual Reality) with .wrl extention.
+
+
+2nd assignment:
+The use of VR in army?
+
+
+Homework:
+Discuss multimedia in public space (shopping mall, airport, etc).
